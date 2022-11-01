@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning Big O, LinkedList, Stack, Queue, and developing Android Mobile App with Java and Kotlin.
 - 📫 How to reach me: https://www.linkedin.com/in/yuklunchanking/
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **RRCKing/RRCKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
