@@ -5,9 +5,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/yuklunchanking/
 
 
-[![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRCKing)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **RRCKing/RRCKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
