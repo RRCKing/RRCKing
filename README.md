@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Structures and Algorithms, Web Security, and Android Mobile App courses.
-- 🌱 I’m currently learning Big O, LinkedList, Stack, Queue, and developing Android Mobile App with Java and Kotlin.
+- 🔭 I am King Chan, a Full Stack Developer specializing in Angular and C#.NET.
+- 🌱 I’m currently revamping a website from ASP.NET to Angular with C#.NET.
 - 📫 How to reach me: https://www.linkedin.com/in/yuklunchanking/
 
 
